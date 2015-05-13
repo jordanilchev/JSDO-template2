@@ -1,11 +1,11 @@
 {
-  "ProjectName": "JSDO Sample 2",
-  "ProjectGuid": "8fe687ee-fd77-41bc-a592-14c2115d360e",
+  "ProjectName": "Mobile JSDO Template",
+  "ProjectGuid": "dfc0cbd5-e6b4-4823-9071-690d14e07227",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.JSDOSample2",
-  "DisplayName": "JSDO Sample 2",
+  "AppIdentifier": "com.telerik.sessionMobile",
+  "DisplayName": "sessionMobile",
   "Author": "",
-  "Description": "",
+  "Description": "sessionMobile",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -15,31 +15,26 @@
   "iOSBackgroundMode": [],
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "3.7.0",
-  "AndroidPermissions": [
-    "android.permission.INTERNET"
-  ],
+  "AndroidPermissions": [],
   "DeviceOrientations": [
     "Portrait",
     "Landscape"
   ],
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "True",
   "iOSStatusBarStyle": "Default",
   "Framework": "Cordova",
   "WP8TileTitle": "",
   "WP8Publisher": "",
-  "WP8Capabilities": [
-    "ID_CAP_NETWORKING",
-    "ID_CAP_WEBBROWSERCOMPONENT"
-  ],
+  "WP8Capabilities": [],
   "WP8Requirements": [],
-  "WP8PublisherID": "{cdc4d72d-37d9-47f8-9b86-24f599e9450b}",
-  "WP8ProductID": "{b56ac5f9-6426-4fbe-a8f5-5ffc492ab111}",
+  "WP8PublisherID": "{1516a44b-6397-47fe-9b2c-7e0d80d240da}",
+  "WP8ProductID": "{07ee8641-849e-4c5c-9c17-4cb1142e4c10}",
   "WPSdk": "8.0",
-  "WP8PackageIdentityName": "1234Telerik.JSDOSample2",
-  "WP8WindowsPublisherName": "CN=Telerik",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ]
+  ],
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.sessionMobile"
 }
